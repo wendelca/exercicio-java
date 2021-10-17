@@ -1,0 +1,98 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao01",
+            "request": "launch",
+            "mainClass": "Questao01",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao02",
+            "request": "launch",
+            "mainClass": "Questao02",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao03",
+            "request": "launch",
+            "mainClass": "Questao03",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao04JOP",
+            "request": "launch",
+            "mainClass": "Questao04JOP",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao05",
+            "request": "launch",
+            "mainClass": "Questao05",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao10",
+            "request": "launch",
+            "mainClass": "Questao10",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao11",
+            "request": "launch",
+            "mainClass": "Questao11",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao13",
+            "request": "launch",
+            "mainClass": "Questao13",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questao17",
+            "request": "launch",
+            "mainClass": "Questao17",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco01",
+            "request": "launch",
+            "mainClass": "Questaolaco01",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco02",
+            "request": "launch",
+            "mainClass": "Questaolaco02",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco07",
+            "request": "launch",
+            "mainClass": "Questaolaco07",
+            "projectName": "Exercicios- java_1a8c2e64"
+        }
+    ]
+}

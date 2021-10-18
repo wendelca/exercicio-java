@@ -8,7 +8,7 @@ public class Questaolaco07 {
                     int senha_ok = Integer.parseInt(senha);
     
                     String msg = "";
-    
+                    //senha  1234
                     if(senha_ok ==1234){
                         msg = "ACESSO PERMITIDO";
                     } else{

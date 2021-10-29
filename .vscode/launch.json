@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppJato",
+            "request": "launch",
+            "mainClass": "AppJato",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "ProjetoAgenda.App",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuestaoPessoa",
+            "request": "launch",
+            "mainClass": "EXERCICIO_OO.QuestaoPessoa",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco06",
+            "request": "launch",
+            "mainClass": "Questaolaco06",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco05",
+            "request": "launch",
+            "mainClass": "Questaolaco05",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco04",
+            "request": "launch",
+            "mainClass": "Questaolaco04",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Questaolaco03",
+            "request": "launch",
+            "mainClass": "Questaolaco03",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

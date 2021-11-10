@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppLavajato",
+            "request": "launch",
+            "mainClass": "AppLavajato",
+            "projectName": "Exercicios- java_1a8c2e64"
+        },
+        {
+            "type": "java",
             "name": "Launch AppJato",
             "request": "launch",
             "mainClass": "AppJato",
